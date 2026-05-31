@@ -1,0 +1,41 @@
+启示1：湖仓能力将快速趋于同质化
+
+湖仓仍然重要，但已经难以形成长期竞争壁垒。
+
+未来需要寻找湖仓之上的差异化能力。
+
+启示2：Data for AI将成为下一阶段重点投入方向
+
+重点关注：
+
+RAG数据底座
+Feature Store
+Embedding管理
+企业知识管理
+
+能力建设。
+
+启示3：AI for Data是提升产品竞争力的重要抓手
+
+重点关注：
+
+AI开发助手
+AI治理助手
+AI运维助手
+Text-to-SQL
+
+等场景。
+
+启示4：Agent能力可能成为下一代数据平台入口
+
+建议提前布局：
+
+Data Agent
+Analytics Agent
+Governance Agent
+
+相关能力体系。
+
+思想简报摘要（300字版）
+
+生成式AI的兴起并未削弱数据平台价值，而是推动大数据产业进入新的发展阶段。产业正在从“Data for BI”向“Data for AI”迁移，数据平台的核心任务也从支撑数据分析转变为支撑大模型、RAG和Agent应用。以阿里云MaxCompute为代表的数据平台正在从传统数仓演进为AI Data Platform，其发展路径与Databricks、Snowflake、Microsoft Fabric等国际领先平台高度一致。未来竞争焦点将不再是计算性能和湖仓架构，而是数据治理、语义层、AI协同以及Agent能力。对于产业而言，AI不会消灭大数据，但会淘汰无法服务AI的大数据平台；对于厂商而言，Data for AI、AI for Data和Agent for Data将成为下一阶段产品演进的关键方向。
